@@ -39,3 +39,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### Play my Video Game
 
 Check it out here [TiptonRUN](https://gba.ninja/?autorun=https://elizzakai.github.io/Final/Project.gba)
+https://gba.ninja/?autorun=https://travis-bittel.github.io/Spellslinger/Spellslinger.gba
+https://gba.ninja/?autorun=https://elizzakai.github.io/Final/Project.gba
